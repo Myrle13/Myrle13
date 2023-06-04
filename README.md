@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Myrle13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on working
-- 📫 How to reach me my email: nhumai1307@gmail.com
+My name is Nhu Mai Nguyen.
+Email address: nhumai1307@gmail.com
+I am a fresh graduate IT major in Data Science.
+This github is a place where I can show my project and skill.
+Appreciate all the comments to help and support my knowledge and experience.
 
 <!---
 Myrle13/Myrle13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
